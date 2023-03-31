@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "809709722886",
+    "project_id": "rasel-cafff",
+    "storage_bucket": "rasel-cafff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809709722886:android:b35c9f139684d861689287",
+        "android_client_info": {
+          "package_name": "com.abdelhamidmergh.rasel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809709722886-vijh6ef2k15dp67aqg9je6490nrt9dps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzu3Egdm1N180XXCTcSyPYw-qYHL_aues"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809709722886-vijh6ef2k15dp67aqg9je6490nrt9dps.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "809709722886-i53ao6263sh410f16kd117tfn6gi2r4d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.residanatAlgerSeancesEnLinge"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
